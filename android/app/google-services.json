@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "284459085202",
+    "project_id": "vostok-clone",
+    "storage_bucket": "vostok-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284459085202:android:1c18e4f4fda81e9811654b",
+        "android_client_info": {
+          "package_name": "com.example.vostok_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284459085202-5n0ak0fm1a5nhdnifp0ukhnff2nuion1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZfXf5aqygIvszfbbcaXw_b_fReSMxJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284459085202-5n0ak0fm1a5nhdnifp0ukhnff2nuion1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284459085202-5hecq12dctprb8fva5rho01s2iuuhv5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.vostokclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
